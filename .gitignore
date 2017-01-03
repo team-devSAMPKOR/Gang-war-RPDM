@@ -1,0 +1,11 @@
+include
+npcmodes
+pawno
+plugins
+announce.exe
+samp-license.txt
+samp-npc.exe
+samp-server.exe
+server_log.txt
+server-readme.txt
+*.amx
